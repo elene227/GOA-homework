@@ -16,5 +16,8 @@ print (name)
 age = 'i am 12 years old'
 print (age)
 
+print(5)
+
+
 
 
