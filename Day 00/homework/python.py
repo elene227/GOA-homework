@@ -14,7 +14,9 @@ name = 'my name is elene'
 print (name)
 
 age = 'i am 12 years old'
-print (age)
+print (age) 
 
+print(5)
 
+    
 
