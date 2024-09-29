@@ -13,4 +13,4 @@ name = "elene"
 print(name)
 
 surname = "pirtskhalava"
-print(surname)
+print(surname)       

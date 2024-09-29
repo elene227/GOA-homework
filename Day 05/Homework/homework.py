@@ -10,3 +10,4 @@ print ("hello")
 Name = "elene"
 print(Name)
 
+#this is how to correct our mistakes <3
